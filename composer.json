@@ -1,0 +1,7 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.1",
+        "vlucas/phpdotenv": "^5.2",
+        "monolog/monolog": "^2.2"
+    }
+}
